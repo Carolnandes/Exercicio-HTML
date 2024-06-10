@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Profissional</title>
+</head>
+<body>
+
+    <header>
+        <h1>Currículo Profissional</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Administradora</h2>
+            <img src="camilafake.jpg" width="350"
+        </section>
+
+        <hr>
+
+        <section>
+            <h3>Empresa ABC da Roça</h3>
+            <p>Essa é uma empresa do ramo de hortifruti e trabalho como administradora. Responsavel pelos pagamentos, supervisiono as rotinas, controlo mercadoriase folgas e escalas de funcionaros, lidero as equipes.
+
+            </p>
+        </section>
+
+        <hr>
+
+        <section>
+            <h3>Formações Acadêmicas</h3>
+            <p>Cuso Superior em Administração pela universidade cesumar de maringá, concluido no ano de 2018.</p>
+        </section>
+
+        <hr>
+
+
+    </main>
+
+</body>
+</html>
